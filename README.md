@@ -6,6 +6,6 @@ Minijuegos de verano, choice, encontrar las diferencias y más.
 
 Plataforma de minijuegos online realizada en JS CSS3 y HTML5
 
-Jugá online desde <a href="https://playremax.com/" target="_blank">https://playremax.com/</a>
+Jugá online desde <a href="https://lab.ruzestudio.com/playremax/" target="_blank">https://playremax.com/</a>
 
 Diseño y desarrollo Jorge Penela, creatividad Jimena Polleschi. Anarketing.
